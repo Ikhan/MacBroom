@@ -3,6 +3,12 @@
 A fast, low-memory, CleanMyMac-style cleaner & optimizer for macOS, written in Rust.
 Single 1.5 MB binary · ~3 MB RAM idle · ~25 MB peak while scanning · 0% CPU when idle.
 
+## Screenshots
+
+| Smart Care | System Junk |
+| :---: | :---: |
+| ![Smart Care: one-shot scan with safe junk pre-selected](docs/screenshots/smart-care.png) | ![System Junk: caches, logs and developer junk found and selected for cleaning](docs/screenshots/system-junk.png) |
+
 ## Install
 
 **DMG:** run `./scripts/build-dmg.sh`, open `dist/macbroom-0.1.0.dmg`, and drag
