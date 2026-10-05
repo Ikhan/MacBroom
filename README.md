@@ -1,4 +1,4 @@
-# 🧹 macbroom
+#  Macbroom
 
 A fast, low-memory, CleanMyMac-style cleaner & optimizer for macOS, written in Rust.
 Single 1.5 MB binary · ~3 MB RAM idle · ~25 MB peak while scanning · 0% CPU when idle.
